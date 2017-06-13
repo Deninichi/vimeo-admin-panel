@@ -1,0 +1,11 @@
+.home-library-frontend td {
+    padding: 0px;
+    vertical-align: middle;
+}
+.home-library-frontend td p {
+	font-size: 14px;
+	margin: 0;
+}
+.home-library-frontend td h2 {
+	margin: 10px 0;
+}
